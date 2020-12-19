@@ -14,3 +14,7 @@ var containsDuplicate = function (nums) {
   }
   return false;
 };
+
+/*
+    Hashtable
+*/
