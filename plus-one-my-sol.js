@@ -14,7 +14,7 @@ var plusOne = function (digits) {
         return digits;
       }
     } else {
-      // case normal addition
+      // case normal addition & short circuit
       digits[index]++;
       return digits;
     }
